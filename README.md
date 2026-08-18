@@ -1,3 +1,3 @@
 # Olá
-## Eu sou Guilherme L.S.Catarina
+## Eu sou Guilherme Catarina
 ### Sou estudante de Ciência da computação
